@@ -1,1 +1,2 @@
 # Franziskus
+FRANZISKUS is a novel about the Saint Francis of Assisi in a German language. It is a nice application with a beautiful gallery and the short stories for the children. An original name of the book is Der Heilige Franziskus von Assisi (1978). I bought this book in Assisi in 2001. And I have created this nice application to show what nice application can be created by Sketchware. It is for a mobile phone with a screen of 5". However it works in every screen, I think.
